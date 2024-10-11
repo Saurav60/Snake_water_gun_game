@@ -34,8 +34,8 @@ else:
     if a is None:
         print("The game is a tie!")
     elif a:
-        print("You win!")
+        print("You win!!!!")
     else:
-        print("You lose!")
+        print("You lose!!!!")
 
 
