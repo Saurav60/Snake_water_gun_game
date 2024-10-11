@@ -47,3 +47,6 @@ Contributions are welcome! If you have suggestions for improvements, feel free t
 ## Contact
 
 For any questions or feedback, please reach out to [saur98570@gmail.com].
+
+## Game Screenshot
+(https://github.com/Saurav60/Snake_water_gun_game/blob/main/Screenshot%202024-10-11%20193819.png?raw=true)
