@@ -1,6 +1,7 @@
+#we need to import random module to generate random choices by computer.
 import random
 
-def gamewin(comp, you):
+def game_win(comp, you):
     # If two values are equal declare a tie
     if comp == you:
         return None
@@ -26,7 +27,7 @@ you = input("Your turn: Snake(s), Water(w), or Gun(g)? ").lower()
 if you not in ['s', 'w', 'g']:
     print("Invalid input! Please enter 's' for Snake, 'w' for Water, or 'g' for Gun.")
 else:
-    a = gamewin(comp, you)
+    a = game_win(comp, you)
 
     print(f"Computer chose: {comp}")
     print(f"You chose: {you}")
